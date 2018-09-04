@@ -1,0 +1,10 @@
+Optimization Iteration:   9101, Training Accuracy:  98.4%
+Optimization Iteration:   9201, Training Accuracy:  98.4%
+Optimization Iteration:   9301, Training Accuracy: 100.0%
+Optimization Iteration:   9401, Training Accuracy: 100.0%
+Optimization Iteration:   9501, Training Accuracy: 100.0%
+Optimization Iteration:   9601, Training Accuracy:  98.4%
+Optimization Iteration:   9701, Training Accuracy: 100.0%
+Optimization Iteration:   9801, Training Accuracy:  98.4%
+Optimization Iteration:   9901, Training Accuracy: 100.0%
+Time usage: 0:16:59

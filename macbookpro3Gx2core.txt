@@ -1,0 +1,1 @@
+8000 x 8000 matmul took: 12.07 sec, 84.82 G ops/sec

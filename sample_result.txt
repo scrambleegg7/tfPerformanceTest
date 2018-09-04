@@ -1,0 +1,3 @@
+Time Taken	Intel i5 – 4210U 1.7GHz	GeForce Nvidia 1060 6GB GDDR5
+Matrix Multiplication of 8000×8000	16 seconds at 63.36 G ops/sec	0.29 seconds at 3588.87 G ops/sec
+Training of MNIST (60,000 images)	27 minutes 47 seconds	59 seconds
